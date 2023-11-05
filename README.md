@@ -19,6 +19,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shresth06&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shresth06&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=shresth06&icon=0&color=1)](https://visitcount.itsvg.in)
