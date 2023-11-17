@@ -1,5 +1,5 @@
 # About Me:
-👋 Hello, I'm Shresth Pratap, a college student with a passion for programming . I specialize in Python, C++, JavaScript.<br><br>📊 My primary interests lies in machine learning and data science. I'm excited about exploring new techniques, tools, and frameworks to improve my capabilities.<br><br>💼 My long-term career goal is to work in a dynamic environment, whether it's in High-Frequency Trading (HFT) or at a product based company.<br><br>📚 Currently, I'm balancing my college studies with my passion for coding and continuously honing my skills. I believe in the importance of lifelong learning and staying up to date with the latest developments in the tech world.<br><br>🌟I'm open to exciting projects, learning opportunities, and networking with fellow developers and professionals who share my enthusiasm for technology and innovation.<br><br>💡Feel free to explore my repositories and reach out if you'd like to discuss a project or just have a chat about all things tech. <br><br>📫 You can reach me via email at shresthpratap6@gmail.com.<br><br>Thanks for visiting my GitHub profile.
+👋 Hello, I'm Shresth Pratap, a college student with a passion for programming . I specialize in Python, C++, JavaScript.<br><br>📊 My primary interests lies in machine learning and data science. I'm excited about exploring new techniques, tools, and frameworks to improve my capabilities.<br><br>💼 My long-term career goal is to work in a dynamic environment, whether it's in High-Frequency Trading (HFT) or at a product based company.<br><br>🌟I'm open to exciting projects, learning opportunities, and networking with fellow developers and professionals.<br><br>💡Feel free to explore my repositories and reach out if you'd like to discuss a project or just have a chat about all things tech. <br><br>📫 You can reach me via email at shresthpratap6@gmail.com.<br><br>Thanks for visiting my GitHub profile.
 
 
 ## 🌐 Socials:
@@ -17,6 +17,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shresth06&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=shresth06&icon=0&color=1)](https://visitcount.itsvg.in)
