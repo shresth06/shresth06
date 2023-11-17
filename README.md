@@ -1,5 +1,5 @@
 # About Me:
-👋 Hello, I'm Shresth Pratap I like to program and quite enjoy doing it.
+👋 Hello, I'm Shresth Pratap I like to program and quite enjoy doing so.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theshresthpratap) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShresthPratap06) 
