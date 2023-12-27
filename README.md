@@ -1,1 +1,1 @@
-Hello, I'm Shresth, I like to program.
+I like to program.
